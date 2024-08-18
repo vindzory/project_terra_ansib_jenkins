@@ -1,0 +1,5 @@
+[jenkins_master]
+<jenkins_master_public_ip> ansible_user=ubuntu
+
+[jenkins_worker]
+<jenkins_worker_private_ip> ansible_user=ubuntu

@@ -1,0 +1,10 @@
+terraform/.terraform/
+terraform/terraform.tfstate*
+terraform/.terraform.lock.hcl
+
+*.retry
+
+*.pem
+
+*.swp
+.DS_Store
